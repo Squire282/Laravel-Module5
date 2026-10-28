@@ -5,7 +5,7 @@
 
     <p>
         Laravel POS is a simple Point of Sale foundation project
-        created for Technical Formative Assessment 5.
+        created for Technical Formative Assessment 6.
     </p>
 
     <p>
